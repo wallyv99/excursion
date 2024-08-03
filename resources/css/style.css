@@ -25,3 +25,10 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+
+}
