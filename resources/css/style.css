@@ -1,3 +1,27 @@
-git remote add origin https://github.com/wallyv99/excursion.git
-git branch -M main
-git push -u origin main
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
